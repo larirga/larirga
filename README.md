@@ -4,7 +4,7 @@
 - 💬 Gosto de conversar e aprender sobre tecnologia
 - 😄 Pronomes: ela/dela
 
-#### Comecei a pouco tempo minha jornada no desenvolvimento e atualmente estudo na Trybe, realizei o módulo de fundamentos do desenvolvimento web e estou terminando front-end 👩‍💻.
+#### Comecei a pouco tempo minha jornada no desenvolvimento e atualmente estudo na Trybe, realizei o módulo de fundamentos do desenvolvimento web, frontend e estou no módulo de backend 👩‍💻.
 
 <div>
   <a href="https://github.com/larirga">
@@ -18,7 +18,6 @@
   <img align="center" alt="Larirga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br>
   <br>
-  <a href="https://instagram.com/larirga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:larirgaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-rodrigues-122775206/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
