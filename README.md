@@ -1,6 +1,6 @@
 ## Eii, me chamo Larissa  🖖
 
-- 🕹️ Estudando JavaScript e React/Redux
+- 🕹️ Estudando banco de dados, Docker && SQL
 - 💬 Gosto de conversar e aprender sobre tecnologia
 - 😄 Pronomes: ela/dela
 
