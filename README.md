@@ -1,6 +1,6 @@
 ## Eii, me chamo Larissa  🖖
 
-- 🕹️ Estudando Node.js, Docker && SQL
+- 🕹️ Estudando Node.js, SQl && Typescript
 - 💬 Gosto de conversar e aprender sobre tecnologia
 - 😄 Pronomes: ela/dela
 
