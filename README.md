@@ -4,7 +4,11 @@
 - 💬 Gosto de conversar e aprender sobre tecnologia
 - 😄 Pronomes: ela/dela
 
-#### Comecei a pouco tempo minha jornada no desenvolvimento e atualmente estudo na Trybe, realizei o módulo de fundamentos do desenvolvimento web, frontend e estou no módulo de backend 👩‍💻.
+#### Comecei a  um ano minha jornada no desenvolvimento e atualmente estudo Analise e desenvolvimento de sistemas.
+#### Tenho interesse em: 
+## Java (sempre aprendendo um cadin mais)
+## Python
+## Javascript/Typescript
 
 <div>
   <a href="https://github.com/larirga">
