@@ -1,6 +1,6 @@
-## Ei, me chamo Larissa  🖖
+## Hey, I'm Larissa 🖖
 
-#### Tenho interesse em Java e Javascript/typescript.
+#### I'm into Java and JavaScript/TypeScript languages and backend development for web applications.
 
 <div>
   <a href="https://github.com/larirga">
