@@ -1,9 +1,6 @@
 ## Ei, me chamo Larissa  🖖
 
-#### Tenho interesse em: 
-#### Java (sempre aprendendo um cadin mais)
-#### Spring Boot
-#### Javascript/Typescript
+#### Tenho interesse em Java e Javascript/typescript.
 
 <div>
   <a href="https://github.com/larirga">
